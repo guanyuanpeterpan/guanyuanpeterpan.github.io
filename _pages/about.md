@@ -29,8 +29,8 @@ I am currently an undergraduate at *[Hangzhou Dianzi University](https://www.hdu
 
 I am currently interested in:
 
-**- Automating circuit design
-- Embodiment intelligence
-- Time-series forecasting**
+**- Automating circuit design**
+**- Embodiment intelligence**
+**- Time-series forecasting**
 
 **I am actively looking for collaboration!**
