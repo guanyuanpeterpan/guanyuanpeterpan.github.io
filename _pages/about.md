@@ -25,12 +25,12 @@ latest_posts:
 
 ---
 
-I am currently an undergraduate at Hangzhou Dianzi University in Hangzhou, Zhejiang Province, China.
+I am currently an undergraduate at *[Hangzhou Dianzi University](https://www.hdu.edu.cn/)* in Hangzhou, Zhejiang Province, China.
 
 I am currently interested in:
 
-- Automating circuit design
+**- Automating circuit design
 - Embodiment intelligence
-- Time-series forecasting
+- Time-series forecasting**
 
-I am actively looking for collaboration!
+**I am actively looking for collaboration!**
