@@ -34,3 +34,5 @@ I am currently interested in:
 - **Time-series forecasting**
 
 **I am actively looking for collaboration!**
+
+**My E-mails: guanyuanpeterpan@gmail.com, panguanyuan@qq.com, panguanyuan@hdu.edu.cn**
