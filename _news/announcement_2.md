@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I give a [talk](https://talks.cam.ac.uk/talk/index/234820) about **GNN-ACLP: Graph Neural Networks Based Analog Circuit Link Prediction** on Talks.cam, University of Cambridge!
+I delivered a [talk: ](https://talks.cam.ac.uk/talk/index/234820)**[GNN-ACLP: Graph Neural Networks Based Analog Circuit Link Prediction](https://talks.cam.ac.uk/talk/index/234820)** at *Talks.cam, University of Cambridge*!
