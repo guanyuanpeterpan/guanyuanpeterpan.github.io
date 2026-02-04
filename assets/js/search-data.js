@@ -30,10 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-the-work-vlm-cad-vlm-optimized-collaborative-agent-design-workflow-for-analog-circuit-sizing-is-released-on-arxiv",
-          title: 'The work VLM-CAD: VLM-Optimized Collaborative Agent Design Workflow for Analog Circuit Sizing is...',
-          description: "",
-          section: "News",},{id: "news-the-work-graph-neural-networks-based-analog-circuit-link-prediction-is-released-on-arxiv",
+        },{id: "news-the-work-graph-neural-networks-based-analog-circuit-link-prediction-is-released-on-arxiv",
           title: 'The work Graph Neural Networks Based Analog Circuit Link Prediction is released on...',
           description: "",
           section: "News",},{id: "news-i-delivered-a-talk-gnn-aclp-graph-neural-networks-based-analog-circuit-link-prediction-at-talks-cam-university-of-cambridge",
@@ -44,6 +41,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-project-edge-deployable-dual-arm-manipulation-algorithms-won-the-national-second-prize-in-the-ai-special-competition-of-the-19th-challenge-cup-national-college-students-extracurricular-academic-science-and-technology-contest",
           title: 'Project “Edge-Deployable Dual-Arm Manipulation Algorithms” won the National Second Prize in the “AI+”...',
+          description: "",
+          section: "News",},{id: "news-the-work-vlm-cad-vlm-optimized-collaborative-agent-design-workflow-for-analog-circuit-sizing-is-released-on-arxiv",
+          title: 'The work VLM-CAD: VLM-Optimized Collaborative Agent Design Workflow for Analog Circuit Sizing is...',
           description: "",
           section: "News",},{
         id: 'social-email',
