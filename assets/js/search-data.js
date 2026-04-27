@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "A growing collection of your cool projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "",
@@ -45,7 +52,12 @@ ninja.data = [{
           section: "News",},{id: "news-the-work-vlm-cad-vlm-optimized-collaborative-agent-design-workflow-for-analog-circuit-sizing-is-released-on-arxiv",
           title: 'The work VLM-CAD: VLM-Optimized Collaborative Agent Design Workflow for Analog Circuit Sizing is...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-ielts-writing-llm",
+          title: 'IELTS Writing LLM',
+          description: "An LLM-powered tool for IELTS Writing practice and evaluation.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ielts_writing_llm/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
