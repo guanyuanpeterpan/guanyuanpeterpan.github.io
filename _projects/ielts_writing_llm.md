@@ -8,3 +8,5 @@ category: work
 github: https://github.com/guanyuanpeterpan/IELTS_Writing
 redirect: https://guanyuanpeterpan.github.io/IELTS_Writing/
 ---
+
+An LLM-powered tool for IELTS Writing practice and evaluation.
