@@ -52,6 +52,20 @@
       "highlights": ["Time-Series Forecasting", "Lithium-ion Battery Safety"],
       "startDate": "2025-06",
       "endDate": "2025-09"
+    },
+    {
+      "name": "Deep Learning Summer Programme, Girton College, University of Cambridge",
+      "summary": "Conducted an in-depth study of reinforcement learning and graph neural networks. Develop a medical image segmentation method employing ViG-UNet with multi-fusion dense skip connection with two other undergraduate.",
+      "highlights": ["Reinforcement Learning", "Graph Neural Networks"],
+      "startDate": "2024-08",
+      "endDate": "2024-08"
+    },
+    {
+      "name": "Hangzhou Tourism Q&A System",
+      "summary": "Co-work with three undergraduates and one graduates to build a tourism domain corpus dataset of Hangzhou, and employ it for an online tourism information Q\\&A service utilizing Qwen-1.8B-Chat, Bert-Chinese and DashVector.",
+      "highlights": ["Text Data Collection/Cleaning", "Small Language Model", "Plain RAG"],
+      "startDate": "2023-10",
+      "endDate": "2024-07"
     }
   ],
   "awards": [

@@ -29,9 +29,9 @@ I am currently an undergraduate at *[Hangzhou Dianzi University](https://www.hdu
 
 I am currently interested in:
 
-- **Automating Circuit Design**
-- **Embodiment Intelligence**
+- **AI Agents**
+- **Electronic design automation (EDA)**
 
-**I am actively looking for collaboration!**
+**I am actively looking for PhD/Master's position!**
 
 **My E-mails: guanyuanpeterpan@gmail.com, panguanyuan@qq.com, panguanyuan@hdu.edu.cn**
