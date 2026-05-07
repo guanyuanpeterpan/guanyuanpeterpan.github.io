@@ -224,7 +224,7 @@ This script:
 ### Liquid / HTML
 
 - Use 2-space indentation.
-- Use Liquid tags with consistent spacing: `{% include foo.liquid %}`.
+- Use Liquid tags with consistent spacing: `{% raw %}{% include foo.liquid %}{% endraw %}`.
 - Prefer `relative_url` filter for internal links.
 - Use `bust_file_cache` or `bust_css_cache` filters for cache-busted asset URLs.
 
