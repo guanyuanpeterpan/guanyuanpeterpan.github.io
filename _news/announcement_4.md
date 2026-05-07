@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-11-05 13:59:00-0800
-inline: true
+inline: false
 related_posts: false
 ---
 
