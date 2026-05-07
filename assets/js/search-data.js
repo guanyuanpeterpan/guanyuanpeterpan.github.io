@@ -46,12 +46,7 @@ ninja.data = [{
           section: "News",},{id: "news-the-work-graph-neural-networks-based-analog-circuit-link-prediction-is-published-on-engineering-applications-of-artificial-intelligence",
           title: 'The work Graph Neural Networks Based Analog Circuit Link Prediction is published on...',
           description: "",
-          section: "News",},{id: "news-announcement-4",
-          title: 'Announcement_4',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_4/";
-            },},{id: "news-the-work-vlm-cad-vlm-optimized-collaborative-agent-design-workflow-for-analog-circuit-sizing-is-released-on-arxiv",
+          section: "News",},{id: "news-the-work-vlm-cad-vlm-optimized-collaborative-agent-design-workflow-for-analog-circuit-sizing-is-released-on-arxiv",
           title: 'The work VLM-CAD: VLM-Optimized Collaborative Agent Design Workflow for Analog Circuit Sizing is...',
           description: "",
           section: "News",},{id: "projects-ielts-writing-llm",
